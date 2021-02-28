@@ -1,0 +1,20 @@
+{
+    "short_name": "Nuppukids",
+    "name": "Nuppukids",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "theme_color": "#ffffff",
+    "start_url": "/pwa.html",
+    "icons": [
+      {
+        "src": "/assets/android-chrome-192x192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/assets/android-chrome-384x384.png",
+        "type": "image/png",
+        "sizes": "384x384"
+      }
+    ]
+  }

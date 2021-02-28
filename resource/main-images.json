@@ -1,0 +1,24 @@
+{
+  "images": [
+    {
+      "title": "Värikkäitä rusetteja",
+      "subtitle": "Talvi kokoelma",
+      "background": "#F0F5F3",
+      "className": "valkone sf-hero-item--align-right",
+      "image": {
+        "webp": "/assets/ella/headrus.jpeg",
+        "fallback": "/assets/ella/headrus.jpeg"
+      }
+    },
+    {
+      "title": "Innostu kevään väreistä",
+      "subtitle": "Kevätkokoelma",
+      "background": "#F0F5F3",
+      "className": "sf-hero-item--position-bg-top-left sf-hero-item--align-right valkone",
+      "image": {
+        "webp": "/assets/ella/banner.jpeg",
+        "fallback": "/assets/ella/banner.jpeg"
+      }
+    }
+  ]
+}
